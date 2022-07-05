@@ -1,6 +1,6 @@
 pkgbase = stylus
 	pkgdesc = Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
-	pkgver = 0.57.0
+	pkgver = 0.58.1
 	pkgrel = 1
 	url = https://stylus-lang.com/
 	arch = any
@@ -8,8 +8,8 @@ pkgbase = stylus
 	makedepends = jq
 	makedepends = npm
 	depends = nodejs
-	noextract = stylus-0.57.0.tgz
-	source = https://registry.npmjs.org/stylus/-/stylus-0.57.0.tgz
-	sha512sums = c8e23a1bc5987ebd2af2ff2b46f13dd706f1154fab24fa3beb455ae0c17a2b423a0598cee2bfb14b29e4bf23c13fdb55d4220451e46c8a276322cdabcdbd429d
+	noextract = stylus-0.58.1.tgz
+	source = https://registry.npmjs.org/stylus/-/stylus-0.58.1.tgz
+	sha512sums = 0188821e6e6881ccdd08f31f7bd69e41ae0d92507681c7f80ff221cd83dd7498d380f73e9380ff115134c9f41b643e373073f794fcbef0d67d7dc17192b82cff
 
 pkgname = stylus
